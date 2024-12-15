@@ -19,8 +19,9 @@
 							
 							<div class="social-links">
 								<a href="https://www.facebook.com/hayopkalingabaguiocity/"><i class="fab fa-facebook-f"></i></a>
-								<a href="#"><i class="fab fa-twitter"></i></a>
-								<a href="#"><i class="fab fa-instagram"></i></a>
+								<a href="https://www.instagram.com/hayopkalinga/"><i class="fab fa-instagram"></i></a>
+								<a href="https://www.tiktok.com/@hayop.kalinga"><i class="fa-brands fa-tiktok"></i></a>
+								<a href="https://www.youtube.com/@HayopKalingaOfficialYTC"><i class="fa-brands fa-youtube"></i></a>
 							</div>
 						</div>
 						<div class="flex">

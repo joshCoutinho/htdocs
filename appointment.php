@@ -83,17 +83,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <h3><?php echo $firstName . ' ' . $lastName; ?></h3>
                     </div>
                     <hr>
-                    <a href="#" class="sub-menu-link">
+                    <a href="appointment.php" class="sub-menu-link">
                         <img src="https://icons.veryicon.com/png/o/miscellaneous/icon-library-of-x-bacteria/appointment-4.png">
                         <p>Appointments</p>
                         <span>></span>
                     </a>
-                    <a href="#" class="sub-menu-link">
+                    <a href="pet-info.php" class="sub-menu-link">
                         <img src="https://cdn-icons-png.flaticon.com/512/165/165823.png">
                         <p>Medical Records</p>
                         <span>></span>
                     </a>
-                    <a href="#" class="sub-menu-link">
+                    <a href="user-info.php" class="sub-menu-link">
                         <img src="https://cdn-icons-png.flaticon.com/512/7689/7689822.png">
                         <p>Consultation</p>
                         <span>></span>

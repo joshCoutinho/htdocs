@@ -26,7 +26,7 @@ body{
 /* Navigation bar*/
 nav{
 	top: 0px;
-	background-color: rgb(248, 250, 248);
+	background-color: rgba(248, 250, 248, 0.5);
 	height: 80px;
 	width: 98.5%;
 	margin: 20px;
@@ -181,7 +181,7 @@ p a:hover{
 .underline-animation{
 	display: inline-block;
 	position: relative;
-	color: blue;
+	color: #1dc2f2;
 }
 .underline-animation:after{
 	content: '';

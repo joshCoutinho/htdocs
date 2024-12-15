@@ -66,7 +66,7 @@ nav .login-popup{
 	width: 130px;
 	height: 30px;
 	border-radius: 5px;
-	border: 2px solid #000;
+	border: 2px transparent #000;
 	background: transparent;
 	outline: none;
 	cursor: pointer;
@@ -87,7 +87,7 @@ nav .login-popup:hover{
 	height: 700px;
 	margin: auto;
 	margin-top: 30px;
-	background-color: rgba(89, 171, 227, .7);
+	background-color: #2feb09;
 	border-radius: 5px;
 	backdrop-filter: blur(5px);
 }

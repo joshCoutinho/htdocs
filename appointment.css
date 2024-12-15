@@ -28,7 +28,7 @@ body {
 
 /* Navigation bar */
 nav {
-    background-color: rgba(191, 191, 191, .5);
+    background-color: rgba(248, 250, 248, 0.5);
     height: 80px;
     width: 97.5%;
     margin: 20px;
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .sub-menu {
-    background-color: rgba(191, 191, 191, .6);
+    background-color: rgba(21, 146, 21, 0.5);
     padding: 20px;
 }
 
@@ -228,7 +228,7 @@ a:hover {
 
 .day {
     border: 1px solid #000;
-    background-color: green;
+    background-color: white;
     padding: 5px;
     text-align: center;
     cursor: pointer;
@@ -237,6 +237,7 @@ a:hover {
 
 .day.selected {
     background-color: orange;
+    color:beige;
 }
 
 .day.past, .month.past {
